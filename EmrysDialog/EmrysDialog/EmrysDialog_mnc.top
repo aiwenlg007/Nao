@@ -1,0 +1,5 @@
+topic: ~EmrysDialog()
+language: mnc
+
+u:([你好 晚上好  早上好 ]) rand^[很好 废话 好啊]
+u:(鹅厂) 加油
